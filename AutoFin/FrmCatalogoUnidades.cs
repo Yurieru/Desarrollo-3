@@ -26,6 +26,7 @@ namespace AutoFin
             InitializeComponent();
             this.cLista = new AutoRepository();
             //DgbCatalogoUnidades.AutoGenerateColumns = false;
+            //prueba numero 1
         }
 
         private void DgbCatalogoUnidades_DataSourceChanged(object sender, EventArgs e)
